@@ -1,13 +1,8 @@
 *.ini
 
-*.iobj
-*.ipdb
-*.pdb
+ConsoleApplicaton1.*
+!ConsoleApplication1.exe
 
-*.sln
-*.sdf
-*.vcxproj*
-
-.vs
-Dedug
-Release
+src/Debug
+src/Release
+src/.vs
