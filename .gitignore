@@ -1,0 +1,12 @@
+*.ini
+
+*.iobj
+*.ipdb
+*.pdb
+
+*.sln
+*.sdf
+*.vcxproj*
+
+Debug
+Release
