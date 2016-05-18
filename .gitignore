@@ -8,5 +8,6 @@
 *.sdf
 *.vcxproj*
 
-Debug
+.vs
+Dedug
 Release
