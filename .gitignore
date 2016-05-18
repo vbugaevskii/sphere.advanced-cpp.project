@@ -1,8 +1,0 @@
-*.ini
-
-ConsoleApplicaton1.*
-!ConsoleApplication1.exe
-
-src/Debug
-src/Release
-src/.vs
