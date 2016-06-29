@@ -1,0 +1,10 @@
+*.ini
+
+ConsoleApplication1.*
+!ConsoleApplication1.exe
+
+src/Debug
+src/Release
+src/.vs
+
+*.pptx
